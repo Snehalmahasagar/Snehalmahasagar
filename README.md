@@ -71,6 +71,29 @@ I enjoy solving real-world problems, contributing to open source, and continuous
 - Topics: Web Dev, Software Engineering, Agile, Code Quality
 
 ---
+## 🧠 LeetCode Badges
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="90"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="90"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="90"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="90"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="90"/>
+</p>
+
+---
+## 🧠 Hacktoberfest Winning badges - 2025 (Open source)
+
+<p align="center">
+  <img src="Hack_l3.png" width="90"/>
+  <img src="Hack_l4.png" width="90"/>
+  <img src="Hacktoberfest_2022_level1.png" width="90"/>
+  <img src="hack_l2.png" width="90"/>
+  <img src="Hacktoberfest_registered.png" width="90"/>
+</p>
+
+---
 
 ## 🏆 Google Arcade Badges
 
@@ -94,18 +117,7 @@ I enjoy solving real-world problems, contributing to open source, and continuous
 
 ---
 
-## 🧠 LeetCode Badges
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="90"/>
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="90"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="90"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="90"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="90"/>
-</p>
-
----
 
 ## 📊 Kaggle Badges
 
