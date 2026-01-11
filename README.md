@@ -104,15 +104,15 @@ I enjoy solving real-world problems, contributing to open source, and continuous
 </p>
 
 <p align="center">
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/20317012">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/20314910">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/20063203">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/19921885">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/19819125">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/19703285">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/19635705">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/19328531">🏅</a>
-  <a href="https://www.skills.google/public_profiles/f9e96423-b0c0-47c6-8a3f-d807ef8f4d85/badges/8257225">🏅</a>
+ <img src = "arcade1.png"/>
+  <img src = "arcade2.png"/>
+   <img src = "arcade3.png"/>
+   <img src = "arcade4.png"/>
+   <img src = "arcade5.png"/>
+   <img src = "arcade6.png"/>
+   <img src = "arcade7.png"/>
+   <img src = "arcade8.png"/>
+   <img src = "arcade9.png"/>
 </p>
 
 ---
