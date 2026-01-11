@@ -190,7 +190,7 @@ const snehalMahasagar = {
 ```mermaid
 timeline
     title Career Journey
-    section 2024-Present
+    section Dec 2025-Present
         Soul AI : AI Quality Analyst (Part-Time/Freelance)
               : Evaluated AI-generated responses
               : Enhanced model performance & accuracy
