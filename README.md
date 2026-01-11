@@ -249,7 +249,7 @@ timeline
 </p>
 
 ### 🎃 Hacktoberfest 2025
-<img src="https://img.shields.io/badge/Hacktoberfest-2024-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+<img src="https://img.shields.io/badge/Hacktoberfest-2025-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20Source-Successful%20PRs-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 <img src="https://img.shields.io/badge/Contributor-Merged%20PRs-00C853?style=for-the-badge&logo=github&logoColor=white" />
 
