@@ -104,15 +104,15 @@ I enjoy solving real-world problems, contributing to open source, and continuous
 </p>
 
 <p align="center">
- <img src = "arcade1.png"/>
-  <img src = "arcade2.png"/>
-   <img src = "arcade3.png"/>
-   <img src = "arcade4.png"/>
-   <img src = "arcade5.png"/>
-   <img src = "arcade6.png"/>
-   <img src = "arcade7.png"/>
-   <img src = "arcade8.png"/>
-   <img src = "arcade9.png"/>
+ <img src = "arcade1.png" width="90"/>
+  <img src = "arcade2.png" width="90"/>
+   <img src = "arcade3.png" width="90"/>
+   <img src = "arcade4.png" width="90"/>
+   <img src = "arcade5.png" width="90"/>
+   <img src = "arcade6.png" width="90"/>
+   <img src = "arcade7.png" width="90"/>
+   <img src = "arcade8.png" width="90"/>
+   <img src = "arcade9.png" width="90"/>
 </p>
 
 ---
