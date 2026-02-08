@@ -1,4 +1,4 @@
-<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/84470ced-b4f4-4b15-af4b-cd8db3fab046" /><div align="center">
+
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Snehal%20Mahasagar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Contributor&descAlignY=55&descSize=18" width="100%"/>
